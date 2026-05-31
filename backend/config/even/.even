@@ -1,0 +1,6 @@
+PORT=4000
+DB_LOCAL_URI=mongodb://127.0.0.1:27017/SystemeElectoralBlockchain
+NODE_ENV=development
+
+REACT_APP_CONTRACT=
+REACT_APP_BE_URL=http://localhost:4000
